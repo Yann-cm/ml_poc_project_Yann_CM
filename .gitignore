@@ -316,4 +316,5 @@ http-client.private.env.json
 # PROJECT SPECIFIC EXCLUSIONS ↓
 
 # Exclude logs directory
-logs/*
+logs/*  
+
