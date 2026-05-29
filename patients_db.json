@@ -1,0 +1,140 @@
+{
+  "yann_capodano maugan": {
+    "prenom": "Yann",
+    "nom": "Capodano Maugan",
+    "analyses": [
+      {
+        "verdict_sub": "benzos",
+        "verdict_score": 0.3224,
+        "scores": {
+          "cannabis": 0.1513,
+          "benzos": 0.3224,
+          "ecstasy": 0.081,
+          "amphet": 0.0546,
+          "coke": 0.0709,
+          "lsd": 0.0198,
+          "mushrooms": 0.0359,
+          "legalh": 0.0846,
+          "amyl": 0.0681,
+          "meth": 0.1015,
+          "ketamine": 0.0503,
+          "heroin": 0.0167,
+          "vsa": 0.0434
+        }
+      },
+      {
+        "verdict_sub": "benzos",
+        "verdict_score": 0.2571,
+        "scores": {
+          "cannabis": 0.2294,
+          "benzos": 0.2571,
+          "ecstasy": 0.0826,
+          "amphet": 0.1027,
+          "coke": 0.0738,
+          "lsd": 0.0439,
+          "mushrooms": 0.0685,
+          "legalh": 0.1408,
+          "amyl": 0.0573,
+          "meth": 0.1455,
+          "ketamine": 0.0843,
+          "heroin": 0.0322,
+          "vsa": 0.0322
+        }
+      },
+      {
+        "verdict_sub": "benzos",
+        "verdict_score": 0.2571,
+        "scores": {
+          "cannabis": 0.2294,
+          "benzos": 0.2571,
+          "ecstasy": 0.0826,
+          "amphet": 0.1027,
+          "coke": 0.0738,
+          "lsd": 0.0439,
+          "mushrooms": 0.0685,
+          "legalh": 0.1408,
+          "amyl": 0.0573,
+          "meth": 0.1455,
+          "ketamine": 0.0843,
+          "heroin": 0.0322,
+          "vsa": 0.0322
+        }
+      },
+      {
+        "verdict_sub": "cannabis",
+        "verdict_score": 0.4374,
+        "scores": {
+          "cannabis": 0.4374,
+          "benzos": 0.4241,
+          "ecstasy": 0.0993,
+          "amphet": 0.244,
+          "coke": 0.0689,
+          "lsd": 0.187,
+          "mushrooms": 0.2064,
+          "legalh": 0.2041,
+          "amyl": 0.021,
+          "meth": 0.3437,
+          "ketamine": 0.0477,
+          "heroin": 0.1843,
+          "vsa": 0.0783
+        }
+      },
+      {
+        "verdict_sub": "cannabis",
+        "verdict_score": 0.4374,
+        "scores": {
+          "cannabis": 0.4374,
+          "benzos": 0.4241,
+          "ecstasy": 0.0993,
+          "amphet": 0.244,
+          "coke": 0.0689,
+          "lsd": 0.187,
+          "mushrooms": 0.2064,
+          "legalh": 0.2041,
+          "amyl": 0.021,
+          "meth": 0.3437,
+          "ketamine": 0.0477,
+          "heroin": 0.1843,
+          "vsa": 0.0783
+        }
+      },
+      {
+        "verdict_sub": "cannabis",
+        "verdict_score": 0.4374,
+        "scores": {
+          "cannabis": 0.4374,
+          "benzos": 0.4241,
+          "ecstasy": 0.0993,
+          "amphet": 0.244,
+          "coke": 0.0689,
+          "lsd": 0.187,
+          "mushrooms": 0.2064,
+          "legalh": 0.2041,
+          "amyl": 0.021,
+          "meth": 0.3437,
+          "ketamine": 0.0477,
+          "heroin": 0.1843,
+          "vsa": 0.0783
+        }
+      }
+    ],
+    "profile": {
+      "age": "18-24 ans",
+      "gender": "Homme",
+      "education": "Bac +3",
+      "country": "Autre",
+      "ethnicity": "Blanc",
+      "nscore": 0.8,
+      "escore": -0.7,
+      "oscore": 0.8,
+      "ascore": 1.1,
+      "cscore": 1.4,
+      "impulsive": 0.9,
+      "ss": 0.9,
+      "alc": 1,
+      "caf": 1,
+      "cho": 1,
+      "nic": 0
+    }
+  }
+}
